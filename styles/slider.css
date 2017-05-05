@@ -4,7 +4,7 @@
   font-size: 51px;
   font-weight: 300;
   text-align: center;
-  color: #FF5800; }
+  color: #DDD; }
 .slider .slider-body {
   position: relative;
   overflow: hidden; }
@@ -46,7 +46,7 @@
     height: 12px;
     margin: 0 3px;
     border-radius: 50%;
-    background-color: #8C8A89;
+    background-color: #DDD;
     cursor: pointer; }
     .slider .slider-pags li.is-active {
-      background-color: #FF5800; }
+      background-color: #999; }
